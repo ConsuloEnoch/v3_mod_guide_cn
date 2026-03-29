@@ -245,7 +245,7 @@ v3_mod_guide/
 引用本项目时请注明：
 ```
 《维多利亚3 Mod开发完全指南》
-来源：https://github.com/[username]/v3_mod_guide_cn
+来源：https://github.com/ConsuloEnoch/v3_mod_guide_cn
 许可：CC BY-SA 4.0
 注意：内容由AI生成，未经人工审查
 ```
