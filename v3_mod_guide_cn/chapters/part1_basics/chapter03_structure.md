@@ -280,8 +280,8 @@ Mod B：`another_mod/buildings.txt`
 
    ```
 
-2. **使用覆盖而非修改**：
-   如果要修改游戏原有内容，使用`replace`或`overwrite`机制
+2. ~~**使用覆盖而非修改**：~~
+   ~~如果要修改游戏原有内容，使用`replace`或`overwrite`机制~~ （错误内容）
 
 3. **使用Mod依赖**：
    在`metadata.json`中声明依赖关系
@@ -296,16 +296,6 @@ dwd_building_gold_mine = {
     replace = building_gold_mine  # 替换原有金矿
 
     # 新定义...
-}
-
-```
-
-或者在effects中使用`overwrite`：
-
-```pdx
-effect = {
-    overwrite = yes  # 覆盖现有效果
-    # 新效果...
 }
 
 ```
